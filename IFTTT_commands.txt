@@ -1,0 +1,7 @@
+IFTTT URL:
+
+For updating single datastream:
+https://46.101.217.214/external/api/update?token=LYaF85nA4CovgWy1NKGkE5r9gwj-rxGy&V1=0
+
+For updating multiple datastreams:
+https://46.101.217.214/external/api/batch/update?token=LYaF85nA4CovgWy1NKGkE5r9gwj-rxGy&V1=1&V2=1

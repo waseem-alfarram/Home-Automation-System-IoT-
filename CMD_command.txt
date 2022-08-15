@@ -1,0 +1,5 @@
+CMD commands:
+
+1. dir
+
+2. blynk-ser.bat -s blynk.cloud
